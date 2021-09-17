@@ -1,4 +1,4 @@
-# Fixed Fixed Beam MEMS tool
+# Fixed Fixed Beams MEMS tool
 This project was created with the intention to offer an easy way to calculate the length of an array of fixed-fixed beams MEMS test structures. It consists of a very simple implementation through a GUI using PyQt5
 
 Another of the intentions of publishing this project was to learn how software is released on GitHub.
